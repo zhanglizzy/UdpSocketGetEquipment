@@ -1,0 +1,2 @@
+# UdpSocketGetEquipment
+iOS通过UDP协议使用socket发送广播查找设备
